@@ -34,5 +34,7 @@ $code->generateGif("ƁxyZÀ199!*1", "my_barcode.gif");
 ## Screenshots
 
 ![image](https://github.com/chenhuaiyuan/barcodes-php/raw/master/example/my_barcode.png)
+
 ![image](https://github.com/chenhuaiyuan/barcodes-php/raw/master/example/my_barcode.jpg)
+
 ![image](https://github.com/chenhuaiyuan/barcodes-php/raw/master/example/my_barcode.gif)
